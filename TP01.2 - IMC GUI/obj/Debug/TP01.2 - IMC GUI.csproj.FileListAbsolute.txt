@@ -1,0 +1,10 @@
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01.2 - IMC GUI\TP01.2 - IMC GUI\bin\Debug\TP01.2 - IMC GUI.exe.config
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01.2 - IMC GUI\TP01.2 - IMC GUI\bin\Debug\TP01.2 - IMC GUI.exe
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01.2 - IMC GUI\TP01.2 - IMC GUI\bin\Debug\TP01.2 - IMC GUI.pdb
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01.2 - IMC GUI\TP01.2 - IMC GUI\obj\Debug\TP01.2 - IMC GUI.csprojAssemblyReference.cache
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01.2 - IMC GUI\TP01.2 - IMC GUI\obj\Debug\TP01._2___IMC_GUI.Form1.resources
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01.2 - IMC GUI\TP01.2 - IMC GUI\obj\Debug\TP01._2___IMC_GUI.Properties.Resources.resources
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01.2 - IMC GUI\TP01.2 - IMC GUI\obj\Debug\TP01.2 - IMC GUI.csproj.GenerateResource.cache
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01.2 - IMC GUI\TP01.2 - IMC GUI\obj\Debug\TP01.2 - IMC GUI.csproj.CoreCompileInputs.cache
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01.2 - IMC GUI\TP01.2 - IMC GUI\obj\Debug\TP01.2 - IMC GUI.exe
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01.2 - IMC GUI\TP01.2 - IMC GUI\obj\Debug\TP01.2 - IMC GUI.pdb
